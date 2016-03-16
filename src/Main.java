@@ -2,6 +2,7 @@
 public class Main {
 
 	String maxFirst="a";
+	int alenaFirst = 1;
 
 
 	public static void main(String[] args) {
@@ -9,6 +10,6 @@ public class Main {
 	}
 
 	Main() {
-	System.out.println(maxFirst);
+	System.out.println(maxFirst+alenaFirst);
 	}
 }
