@@ -1,14 +1,14 @@
 
 public class Main {
-	String alena = "17:08";
-	String max = "17:20";
+
+	String maxFirst=null;
+	String maxSecond=null;
 
 	public static void main(String[] args) {
 		new Main();
 	}
 
 	Main() {
-		System.out.println(alena);
-		System.out.println(max);
+	System.out.println(maxFirst+maxSecond);
 	}
 }
