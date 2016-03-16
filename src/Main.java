@@ -1,7 +1,7 @@
 
 public class Main {
 
-	String maxFirst="ab";
+	String maxFirst="abc";
 	int alenaFirst = 1;
 
 
