@@ -1,7 +1,7 @@
 
 public class Main {
 	String time = "15:55";
-	String time2 = "17:17";
+	String time2 = "17:08,17:09";
 
 	public static void main(String[] args) {
 		new Main();
