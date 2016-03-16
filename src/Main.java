@@ -1,14 +1,14 @@
 
 public class Main {
 
-	String maxFirst="abcdefghijklmnopqrstyvwxyz";
-	String maxSecond=null;
+	String maxFirst="a";
+
 
 	public static void main(String[] args) {
 		new Main();
 	}
 
 	Main() {
-	System.out.println(maxFirst+maxSecond);
+	System.out.println(maxFirst);
 	}
 }
