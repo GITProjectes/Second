@@ -1,15 +1,13 @@
 
 public class Main {
-	String time = "15:55";
-	String time2 = "17:08,17:09";
+	String alena = "17:08,17:09";
 
 	public static void main(String[] args) {
 		new Main();
 	}
 
 	Main() {
-		System.out.println(time);
-	System.out.println(time2);
+	System.out.println(alena);
 
 	}
 }
