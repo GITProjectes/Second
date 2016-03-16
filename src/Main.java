@@ -1,7 +1,7 @@
 
 public class Main {
 
-	String maxFirst=null;
+	String maxFirst="abcdefghijklmnopqrstyvwxyz";
 	String maxSecond=null;
 
 	public static void main(String[] args) {
